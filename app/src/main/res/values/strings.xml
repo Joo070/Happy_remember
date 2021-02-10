@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy remember</string>
+    <string name="add_label_button">Ajouter</string>
+    <string name="people_added_label">Qui ?</string>
+    <string name="date_added_label">Jour de l\'incroyable naissance</string>
+</resources>
